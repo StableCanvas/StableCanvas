@@ -18,8 +18,13 @@ Since StableCanvas is not fully open-source, this repository serves as a place f
 # Usage
 If it is used locally, the usage is very simple. Run the local webui program with parameters:
 ```
---api --cors-allow-origins="https://beta.stablecanvas.com
+--api --cors-allow-origins="https://beta.stablecanvas.com"
 ```
+or (When you need to test dev (non-alpha) version, please use * directly to set cors)
+```
+--api --cors-allow-origins=*
+```
+
 then you can start creating as I did in the demo video
 
 tips: recommend using inpainting model
