@@ -13,6 +13,8 @@ Since StableCanvas is not fully open-source, this repository serves as a place f
 - Extension-base system, has same extension-system as `vscode`
 - Full-featured palette, color catcher
 - Simple and efficient Healing algorithm to help you remove the object
+- ControlNet extensions support. (https://github.com/Mikubill/sd-webui-controlnet)
+- Pose Editor.
 - (WIP) Complete project configuration, save your actions as ".scd" just like ".psd" files
 
 # Usage
@@ -40,11 +42,8 @@ tips: recommend using inpainting model
 - ctrl + z: undo
 
 # Community
-here is demo video:
-[https://www.youtube.com/watch?v=mE3LExiq3I0](https://www.youtube.com/watch?v=mE3LExiq3I0)
-
-my discord server:
-[https://discord.gg/XJBkYH95](https://discord.gg/XJBkYH95)
+- youtube: https://www.youtube.com/@stablecanvasdev
+- discord: https://discord.gg/XJBkYH95
 
 # Contact Us
 - :envelope: Support@StableCanvas.com
