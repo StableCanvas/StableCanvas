@@ -43,7 +43,7 @@ tips: recommend using inpainting model
 
 # Community
 - youtube: https://www.youtube.com/@stablecanvasdev
-- discord: https://discord.gg/XJBkYH95
+- discord: https://discord.gg/DneNQsYccf
 
 # Contact Us
 - :envelope: Support@StableCanvas.com
