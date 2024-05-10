@@ -307,8 +307,8 @@ In the preference, you can configure which content to include in the scd export,
 
 The following are community links for this program, where you can share your thoughts or suggestions on this program, or exchange and share your project files and configurations~
 
-- **Github**: <%- github_link %>
-- **Discord**: <%- discord_link %>
-- **Youtube**: <%- youtube_link %>
+- **Github**: https://github.com/StableCanvas/StableCanvas
+- **Discord**: https://discord.gg/DneNQsYccf
+- **Youtube**: https://www.youtube.com/@stablecanvasdev
 
 [[back to top](#WelcomeTop)]

@@ -308,8 +308,8 @@ Feeds, Presets, Scripts, Workspace, Editor
 
 下面是本程序的社区链接，在这里面你可以分享你对本程序的看法或者建议，或者交流分享你的项目文件和配置~
 
-- **Github**: <%- github_link %>
-- **Discord**: <%- discord_link %>
-- **Youtube**: <%- youtube_link %>
+- **Github**: https://github.com/StableCanvas/StableCanvas
+- **Discord**: https://discord.gg/DneNQsYccf
+- **Youtube**: https://www.youtube.com/@stablecanvasdev
 
 [[back to top](#WelcomeTop)]
