@@ -3,6 +3,8 @@ lang: [en](./README.md) | [cn](./readme.cn.md)
 # StableCanvas
 [StableCanvas.com](https://stablecanvas.com) 是一个免费的在线工具，用于和 stable diffusion 后端协同工作。
 
+![preview](./images/og-image.jpg)
+
 > 由于 StableCanvas 不是完全开源的，因此该存储库可作为错误报告、功能请求和一般讨论的场所。
 
 # Features
