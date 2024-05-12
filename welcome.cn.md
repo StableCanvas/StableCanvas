@@ -299,7 +299,9 @@ Feeds, Presets, Scripts, Workspace, Editor
 
 ##  FAQs
 
-> no QA here, waiting your review
+### 1. detect by: `No service info, click to refresh.`
+- 首先，你需要配置一个可以正常使用的 a1111/webui 后端。
+- 其次，detect 图像识别api依赖于 [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) 插件，正确安装之后即可使用。
 
 [[back to top](#WelcomeTop)]
 

@@ -298,7 +298,10 @@ In the preference, you can configure which content to include in the scd export,
 
 ## FAQs
 
-> no QA here, waiting your review
+### 1. detect by: `No service info, click to refresh.`
+
+- Firstly, you need to set up a functioning backend for a1111/webui.
+- Secondly, the detect image recognition API relies on the [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) plugin, which can be used after proper installation.
 
 [[back to top](#WelcomeTop)]
 
