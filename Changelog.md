@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.0.32-beta] - 2024-05-12
+- **Eraser Tool**: Added eraser tool. Split brush function, brush tool no longer supports erasure. Eraser function can erase image area
+
 ## [2.0.31-beta] - 2024-05-10
 
 ### Added
