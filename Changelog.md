@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.33-beta] - 2024-05-12
+- add: refresh_info alert
+- fix: pose detect issue
+- 
 ## [2.0.32-beta] - 2024-05-12
 - **Eraser Tool**: Added eraser tool. Split brush function, brush tool no longer supports erasure. Eraser function can erase image area
 
