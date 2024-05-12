@@ -1,9 +1,9 @@
 lang: [en](./README.md) | [cn](./readme.cn.md)
 
 # StableCanvas
-[StableCanvas.com](https://stablecanvas.com) is a professional AI drawing editor, aimed at providing a more suitable creative experience for AI painting. No download or installation required, start instantly in your browser, making the AI-driven image creation process more efficient and streamlined.
+[StableCanvas.com](https://stablecanvas.com?utm_source=github) is a professional AI drawing editor, aimed at providing a more suitable creative experience for AI painting. No download or installation required, start instantly in your browser, making the AI-driven image creation process more efficient and streamlined.
 
-[![preview](./images/og-image.jpg)](https://studio.stablecanvas.com)
+[![preview](./images/og-image.jpg)](https://studio.stablecanvas.com?utm_source=github)
 
 > As StableCanvas is not fully open source, this repository can serve as a place for bug reports, feature requests, and general discussions.
 

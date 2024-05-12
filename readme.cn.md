@@ -1,9 +1,9 @@
 lang: [en](./README.md) | [cn](./readme.cn.md)
 
 # StableCanvas
-[StableCanvas.com](https://stablecanvas.com) 是一款专业的AI绘图编辑器，旨在为AI绘画提供更合适的创作环境。 运行在浏览器中无需下载或安装，开箱即用，让AI生图过程更加高效和简化。
+[StableCanvas.com](https://stablecanvas.com?utm_source=github) 是一款专业的AI绘图编辑器，旨在为AI绘画提供更合适的创作环境。 运行在浏览器中无需下载或安装，开箱即用，让AI生图过程更加高效和简化。
 
-[![preview](./images/og-image.jpg)](https://studio.stablecanvas.com)
+[![preview](./images/og-image.jpg)](https://studio.stablecanvas.com?utm_source=github)
 
 > 由于 StableCanvas 不是完全开源的，因此该存储库可作为错误报告、功能请求和一般讨论的场所。
 
