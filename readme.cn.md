@@ -1,7 +1,7 @@
 lang: [en](./README.md) | [cn](./readme.cn.md)
 
 # StableCanvas
-[StableCanvas.com](https://stablecanvas.com) 是一个免费的在线工具，用于和 stable diffusion 后端协同工作。
+[StableCanvas.com](https://stablecanvas.com) 是一款专业的AI绘图编辑器，旨在为AI绘画提供更合适的创作环境。 运行在浏览器中无需下载或安装，开箱即用，让AI生图过程更加高效和简化。
 
 [![preview](./images/og-image.jpg)](https://studio.stablecanvas.com)
 
