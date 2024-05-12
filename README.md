@@ -3,7 +3,7 @@ lang: [en](./README.md) | [cn](./readme.cn.md)
 # StableCanvas
 [StableCanvas.com](https://stablecanvas.com) is a free online tool designed to work in conjunction with the stable diffusion backend.
 
-![preview](./images/og-image.jpg)
+[![preview](./images/og-image.jpg)](https://studio.stablecanvas.com)
 
 > As StableCanvas is not fully open source, this repository can serve as a place for bug reports, feature requests, and general discussions.
 
