@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.0.34-beta] - 2014-05-13
+- preset: add override preset fixed window
+
 ## [2.0.33-beta] - 2024-05-12
 - add: refresh_info alert
 - fix: pose detect issue
