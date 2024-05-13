@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: "\U0001F4A1Feature request"
 about: Suggest an idea for this project
 title: "[Feature] should work like this"
 labels: enhancement
