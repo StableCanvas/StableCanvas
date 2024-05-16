@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.0.35-beta] - 2014-05-15
+- Compatible: Compatible with `sd-webui-controlnet` new api parameters
+- ui: optimize preset ui
+- add: Add reset default preset button
+- default: default preset `disable_native_inpaint=false`
+
 ## [2.0.34-beta] - 2014-05-13
 - preset: add override preset fixed window
 
