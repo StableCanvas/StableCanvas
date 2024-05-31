@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.0.36-beta] - 2014-05-31
+- Optimization: Reduce pose editor synchronization delay
+- Optimization: Latent area object enhancement
+- Optimization: Drop file processing logic
+
 ## [2.0.35-beta] - 2014-05-15
 - Compatible: Compatible with `sd-webui-controlnet` new api parameters
 - ui: optimize preset ui
